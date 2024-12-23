@@ -65,4 +65,9 @@ docker exec -ti github-repo-tracker-app bash
 php yii migrate
 ```
 
+### 5. Host
+Сайт доступен по адресу 
+
+http://localhost:8080/
+
 
